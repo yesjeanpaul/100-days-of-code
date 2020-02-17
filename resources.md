@@ -4,6 +4,7 @@
 
 ### Articles
 
+[C++ Quick Guide](https://www.tutorialspoint.com/cplusplus/cpp_quick_guide.htm)
 
 ### Podcasts
 
@@ -11,16 +12,13 @@
 
 ## Helpful Articles
 
-
 ## Projects and Ideas
-
 
 ## Other resources
 
 ## Books (both coding and non-coding)
 
 ### Non-Coding
-
 
 ### Coding
 
