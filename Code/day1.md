@@ -3,7 +3,7 @@
 ## Hello world function
 
 hello_world.h
-```c
+```cpp
 // This is an include guard.
 // You could alternatively use '#pragma once'
 // See https://en.wikipedia.org/wiki/Include_guard
@@ -53,7 +53,7 @@ string hello() {
 
 hamming.h
 
-```c
+```cpp
 #include <string>
 
 #if !defined(HAMMING_H)
