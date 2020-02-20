@@ -24,7 +24,18 @@ been reading [Quick C++ tutorial](https://www.tutorialspoint.com/cplusplus/cpp_q
 there is not a explication of the .h files, so I've to research how to use that .h files and 
 about the std library of C++.
 
-**Link(s) to work**: [Day 1](Code/day1.md)
+**Link(s) to work**: [Day 2](Code/day2.md)
+
+### Day 3: February 19, 2020
+
+**Today's Progress**: I end the nucleotide count problem.
+
+**Thoughts**: This problem took me so much time becouse the test for the code have a lot
+of problems with the const type that the testing request, after I finally understood how
+to use the header files. I've asking about what the sections #if !defined(NUCLEOTIDE_COUNT_H)
+are, it seems that is something called macros, I'm gonna investigate what is that.
+
+**Link(s) to work**: [Day 3](Code/day3.md)
 
 ## Contents
 * [Rules](rules.md)
