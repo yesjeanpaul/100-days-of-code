@@ -37,6 +37,18 @@ are, it seems that is something called macros, I'm gonna investigate what is tha
 
 **Link(s) to work**: [Day 3](Code/day3.md)
 
+### Day 4: February 21, 2020
+
+**Today's Progress**: Solve the grade school exercise
+
+**Thoughts**: It give me some problems to do this exercise, becouse I change of pc and take me
+so much time to find out how to compile and run the test, finally can run the tests, and finally 
+take me a lot of time understand the syntax of the data structures, it seems that I have to read more about std library. And I discover that in C++ you cannot have a variable and function with the same name.
+
+**Link(s) to work**: [Day 4](Code/day4.md)
+
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
