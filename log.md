@@ -47,6 +47,23 @@ take me a lot of time understand the syntax of the data structures, it seems tha
 
 **Link(s) to work**: [Day 4](Code/day4.md)
 
+### Day 5: February 22, 2020
+
+**Today's Progress**: Read the first chapter of competitive programming 3 the new lower bound of programming contests.
+
+**Thoughts**: With the first chapter of this book I think that do well
+in this contest is not impossible but it requires so much discipline and constant practice, all the time I heard about this type of contest 
+I think about as something of being a genious but it's most likely to be a athlete you have to work everyday to get better results.
+
+### Day 6: February 23, 2020
+
+**Today's Progress**: Upgrade the grade school exercise
+
+**Thoughts**: When I finish the grade school exercise I feel that I can
+get better with the add function so I came with other way to do it, but 
+with two differents codes one do it in a long way and the other using a fancy function to do it.
+
+**Link(s) to work**: [Day 6](Code/day6.md)
 
 
 ## Contents
