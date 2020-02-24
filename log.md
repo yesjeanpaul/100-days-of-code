@@ -65,6 +65,19 @@ with two differents codes one do it in a long way and the other using a fancy fu
 
 **Link(s) to work**: [Day 6](Code/day6.md)
 
+### Day 7: February 24, 2020
+
+**Today's Progress**: Make RNA transcription exercise
+
+**Thoughts**: I understand why a lot of people don't like C++, for each basic type of data
+you have various derivates types, I explain more, you don't have only char type, you have
+const char type, char& type, char* type, char[ ] type, char* [ ] type and const char[ ] type (not sure), 
+that makes so difficult to work with and I left to mention the string or std::string type that 
+underneath the hood is a variation of char [ ] type, this make me lost a lot of time becouse 
+I feel the type system of C++ is more complicated than C for that kind of variations.
+
+**Link(s) to work**: [Day 7](Code/day7.md)
+
 
 ## Contents
 * [Rules](rules.md)
