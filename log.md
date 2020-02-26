@@ -78,6 +78,28 @@ I feel the type system of C++ is more complicated than C for that kind of variat
 
 **Link(s) to work**: [Day 7](Code/day7.md)
 
+### Day 8: February 25, 2020
+
+**Today's Progress**: Make two fer exercise of exercism and two problems of code wars
+
+**Thoughts**: I feel more confident about my knowledge in C++ but I feel
+I need to formalize that what I learn, not only understand how but why I do that.
+
+**Link(s) to work**: [Day 8](Code/day8.md)
+
+### Day 9: February 26, 2020
+
+**Today's Progress**: I make two problems in the UVa judge online problems
+
+**Thoughts**: I've been reading about competitive programming so I 
+have to try with some exercises, becouse I'm learning C++ at the time
+that I enter in this world I started with the super easy to get clear
+the I/O data processing to go for more complicated stuff.
+
+**Link(s) to work**: [Day 8](Code/day9.md)
+
+
+
 
 ## Contents
 * [Rules](rules.md)
