@@ -96,7 +96,19 @@ have to try with some exercises, becouse I'm learning C++ at the time
 that I enter in this world I started with the super easy to get clear
 the I/O data processing to go for more complicated stuff.
 
-**Link(s) to work**: [Day 8](Code/day9.md)
+**Link(s) to work**: [Day 9](Code/day9.md)
+
+### Day 10: February 27, 2020
+
+**Today's Progress**: I make one problem of UVa judge and try another
+
+**Thoughts**: I already do the super-easy sugested problems of the introduction
+of the comptetive programming 3 book, I try one of the easy ones but it takes me 
+time to understand the problem, so I try tomorrow. I feel that doing this 
+stuff makes me better developer trying to solve this problems in the most eficcient
+way.
+
+**Link(s) to work**: [Day 10](Code/day10.md)
 
 
 
