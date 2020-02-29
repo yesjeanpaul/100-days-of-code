@@ -121,6 +121,17 @@ the difficulty it has.
 **Link(s) to work**: [Day 11](Code/day11.md)
 
 
+### Day 12: February 29, 2020
+
+**Today's Progress**: I attemp other UVa judge problem
+
+**Thoughts**: I still thinking that it take me so long resolve so simple exercises
+but I gonna find a way to accelerate the process.
+
+
+**Link(s) to work**: [Day 12](Code/day12.md)
+
+
 
 
 ## Contents
