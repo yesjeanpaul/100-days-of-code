@@ -128,8 +128,17 @@ the difficulty it has.
 **Thoughts**: I still thinking that it take me so long resolve so simple exercises
 but I gonna find a way to accelerate the process.
 
-
 **Link(s) to work**: [Day 12](Code/day12.md)
+
+### Day 13: March 1, 2020
+
+**Today's Progress**: I made other UVa judge problem
+
+**Thoughts**: The last few days I'm thinking on start a blog I'm gonna search the way
+to start one, there are several options that I know Wordpress, jekyll, medium .. I'm gonna
+think which one is good for me.
+
+**Link(s) to work**: [Day 13](Code/day13.md)
 
 
 
