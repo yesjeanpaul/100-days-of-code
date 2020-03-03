@@ -140,6 +140,15 @@ think which one is good for me.
 
 **Link(s) to work**: [Day 13](Code/day13.md)
 
+### Day 14: March 2, 2020
+
+**Today's Progress**: I made other UVa judge problem but I don't progress in the blog idea
+
+**Thoughts**: At the time I upgrade my skill in C++ I'm try to learn something different
+like web programming. 
+
+**Link(s) to work**: [Day 14](Code/day14.md)
+
 
 
 
