@@ -194,6 +194,15 @@ that seems like that I found, I have a bug in the code but I fix it.
 
 **Link(s) to work**: [Day 18](Code/day18.md)
 
+### Day 18: March 7, 2020
+
+**Today's Progress**: Today I came to a local community and learn 
+some docker
+
+**Thoughts**: I find docker so interesting but still only see
+the basic stuff, I expect to understand better as I advance.
+
+**Link(s) to work**: 
 
 ## Contents
 * [Rules](rules.md)
