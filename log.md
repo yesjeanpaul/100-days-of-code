@@ -153,12 +153,46 @@ like web programming.
 
 **Today's Progress**: I'm stuck with a problem, I'll end tomorrow
 
-**Thoughts**: I'm working in a problem, and I get stuck becouse I understand bad the problem
+**Thoughts**: I'm working in a problem, and I get stuck becouse I don't understand the problem
 and the result doesn't was the expected.
 
 **Link(s) to work**: [Day 15](Code/day15.md)
 
+### Day 16: March 4, 2020
 
+**Today's Progress**: I'm stuck with a problem, I can't read the inputs
+
+**Thoughts**: I try to read an input from the console, but it has some bugs, I must read
+the line, but I read only the first part of the word separated by a space.
+
+**Link(s) to work**: [Day 16](Code/day16.md)
+
+### Day 16: March 4, 2020
+
+**Today's Progress**: I'm stuck with a problem, I can't read the inputs
+
+**Thoughts**: I try to read an input from the console, but it has some bugs, I must read
+the line, but I read only the first part of the word separated by a space.
+
+**Link(s) to work**: [Day 16](Code/day16.md)
+
+### Day 17: March 5, 2020
+
+**Today's Progress**: I'm stuck with a problem, still can't separate the newlines.
+
+**Thoughts**: I'm thinking in learn other topics apart C++, I think that HTML, css
+and javascript maybe are a good option.
+
+**Link(s) to work**: [Day 17](Code/day17.md)
+
+### Day 18: March 6, 2020
+
+**Today's Progress**: Finally can do it.
+
+**Thoughts**: I have to search the solution sorpresingly I came out with a solution
+that seems like that I found, I have a bug in the code but I fix it.
+
+**Link(s) to work**: [Day 18](Code/day18.md)
 
 
 ## Contents
