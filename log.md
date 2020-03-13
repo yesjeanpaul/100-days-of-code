@@ -204,6 +204,57 @@ the basic stuff, I expect to understand better as I advance.
 
 **Link(s) to work**: 
 
+### Day 20: March 9, 2020
+
+**Today's Progress**: Today I made other UVa judge problem.
+
+**Thoughts**: I do some easy problem.
+
+**Link(s) to work**: [Day 20](Code/day20.md)
+
+### Day 21: March 10, 2020
+
+**Today's Progress**: Today I made other UVa judge problem.
+
+**Thoughts**: I found a way to learn more topics quickly, I feel
+that I can manage C++ to certain point that give me the confidence
+to do more difficult problems.
+
+**Link(s) to work**: [Day 21](Code/day21.md)
+
+### Day 22: March 11, 2020
+
+**Today's Progress**: Today I do the questions of the introduction chapter
+of the competitive programming book.
+
+**Thoughts**: do this questions makes me feel that I don't know nothing about
+algorithms I studied algorithms and data structures a long time ago, but I think
+this book have more topics that I've studied. 
+
+### Day 22: March 11, 2020
+
+**Today's Progress**: Today I do the questions of the introduction chapter
+of the competitive programming book.
+
+**Thoughts**: do this questions makes me feel that I don't know nothing about
+algorithms I studied algorithms and data structures a long time ago, but I think
+this book have more topics that I've studied. 
+
+### Day 23: March 12, 2020
+
+**Today's Progress**: Today I do another exercise in UVa judge and read about 
+C++.
+
+**Thoughts**: I feel that reading fragments of the book C++ helped me to understand
+this programming language and do some common mistakes that people that come from 
+other languages background do, so I understand that I have to write code not like a
+C-style (I learn this language first) instead C++-style.
+
+**Link(s) to work**: [Day 23](Code/day23.md)
+
+
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
