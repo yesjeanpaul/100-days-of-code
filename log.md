@@ -231,7 +231,7 @@ of the competitive programming book.
 algorithms I studied algorithms and data structures a long time ago, but I think
 this book have more topics that I've studied. 
 
-### Day 22: March 11, 2020
+### Day 22: March 12, 2020
 
 **Today's Progress**: Today I do the questions of the introduction chapter
 of the competitive programming book.
@@ -240,7 +240,7 @@ of the competitive programming book.
 algorithms I studied algorithms and data structures a long time ago, but I think
 this book have more topics that I've studied. 
 
-### Day 23: March 12, 2020
+### Day 23: March 13, 2020
 
 **Today's Progress**: Today I do another exercise in UVa judge and read about 
 C++.
@@ -252,6 +252,26 @@ C-style (I learn this language first) instead C++-style.
 
 **Link(s) to work**: [Day 23](Code/day23.md)
 
+### Day 24: March 14, 2020
+
+**Today's Progress**: Today I read about linear data structures in the book of 
+competitive programming.
+
+**Thoughts**: Is nice to review the concepts of data structures, I think data 
+structures is fundamental to solve any problem in CS.
+
+### Day 25: March 15, 2020
+
+**Today's Progress**: Today I try to do two exercises, one I have an idea
+to solve it and the other is good but I have time excedeed so I have to 
+optimize.
+
+**Thoughts**: I was thinking that do many excersises and don't have problems
+can't last forever, today I have my first time excedeed veredict, I have to 
+optimize the code. I'm going to upload my first aproach to the problem, 
+tomorrow I'll try to fix it.
+
+**Link(s) to work**: [Day 25](Code/day25.md)
 
 
 
