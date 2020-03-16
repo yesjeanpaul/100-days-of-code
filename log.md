@@ -273,6 +273,19 @@ tomorrow I'll try to fix it.
 
 **Link(s) to work**: [Day 25](Code/day25.md)
 
+### Day 26: March 16, 2020
+
+**Today's Progress**: I continue to work in the same problem of
+yesterday, I can't finish them yet.
+
+**Thoughts**: I have to search the solution of the problem, becouse
+I can't come with a solution, I think that I don't going to do that
+again becouse it can be counterproductive to me, only I do it again
+if is absolutely necessary, I think is a better approach of doing 
+various exercises at the same time will be better, so I can change 
+the problem when I get stucked.
+
+**Link(s) to work**: [Day 26](Code/day26.md)
 
 
 ## Contents
