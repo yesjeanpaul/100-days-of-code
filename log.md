@@ -287,6 +287,19 @@ the problem when I get stucked.
 
 **Link(s) to work**: [Day 26](Code/day26.md)
 
+### Day 27: March 19, 2020
+
+**Today's Progress**: Read about divide and conquer, working on 
+problems of linear DS.
+
+**Thoughts**: Today I feel a little frustated with a problem, becouse
+I think that C++, is no that powerfull to handle strings, but I found
+a class so usefull to handle the console inputs called istringstream,
+and finally I'm gonna learn frontend development on the weekends of the
+challenge.
+
+**Link(s) to work**: [Day 27](Code/day27.md)
+
 
 ## Contents
 * [Rules](rules.md)
