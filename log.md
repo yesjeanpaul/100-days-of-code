@@ -290,7 +290,7 @@ the problem when I get stucked.
 ### Day 27: March 19, 2020
 
 **Today's Progress**: Read about divide and conquer, working on 
-problems of linear DS.
+problems of linear DS, the problem contest scoreboard.
 
 **Thoughts**: Today I feel a little frustated with a problem, becouse
 I think that C++, is no that powerfull to handle strings, but I found
@@ -299,6 +299,30 @@ and finally I'm gonna learn frontend development on the weekends of the
 challenge.
 
 **Link(s) to work**: [Day 27](Code/day27.md)
+
+### Day 28: March 20, 2020
+
+**Today's Progress**: Read about divide conquer specifically I read about
+maximum subarray problem, today I tried to end the exercise contest scoreboard.
+
+**Thoughts**: Today I tried to end the problem that I was working yesterday,
+still don't ended becouse my code was so buggy and messy so maybe I have to learn
+more about C++ becouse I think I can do the problem but still my knowledge of C++
+is so short and I can found the ways to do the things I'm thinking.
+
+**Link(s) to work**: [Day 28](Code/day28.md)
+
+### Day 29: March 21, 2020
+
+**Today's Progress**: Today I see how the competitive programer errichto
+do his contests and almost done the problem of yesterday.
+
+**Thoughts**: Today I made a better workflow I think that see errichto working
+made me better becouse I try to do a super clean code and I was not using OPP
+but when I see how he works inspired me to do a better code, and I almost end
+the problem I was stucked.
+
+**Link(s) to work**: [Day 29](Code/day29.md)
 
 
 ## Contents

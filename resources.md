@@ -22,6 +22,8 @@
 
 ### Coding
 
+[Youtube Channel Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
