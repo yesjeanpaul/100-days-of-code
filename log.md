@@ -324,6 +324,16 @@ the problem I was stucked.
 
 **Link(s) to work**: [Day 29](Code/day29.md)
 
+### Day 30: March 22, 2020
+
+**Today's Progress**: I made the first section of front-end develper course, I
+learn how to use adobe XD and made my first prototipe.
+
+**Thoughts**: I feel with this course I need the primarly stuff to do a lot of 
+things in desing and development of web pages.
+
+**Link(s) to work**: [Day 30](Code/day30.md)
+
 
 ## Contents
 * [Rules](rules.md)
