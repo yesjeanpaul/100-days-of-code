@@ -334,6 +334,44 @@ things in desing and development of web pages.
 
 **Link(s) to work**: [Day 30](Code/day30.md)
 
+### Day 31: March 23, 2020
+
+**Today's Progress**: Finally i can end the exercise of contest scoreboard.
+
+**Thoughts**: This is a great advance, i finally end this exercise and I learned
+about operators overload, classes and about STL library.
+
+**Link(s) to work**: [Day 31](Code/day31.md)
+
+### Day 32: March 26, 2020
+
+**Today's Progress**: I can't do the challenge because I have problems with my
+PC, took me two days to fix it, I came back with exercism exercises.
+
+**Thoughts**: I feel that I made a great progress because the first week took me
+a lot of time to do any exercise, today i made three, incredible.
+
+**Link(s) to work**: [Day 32](Code/day32.md)
+
+### Day 33: March 27, 2020
+
+**Today's Progress**: I do two exercises of exercism.
+
+**Thoughts**: I think finally I'm mastering the basics of C++, it's great becouse
+I don't plan to make some complicated software in C++.
+
+**Link(s) to work**: [Day 33](Code/day33.md)
+
+### Day 34: March 28, 2020
+
+**Today's Progress**: I'm working on the implementation of merge-sort on C++.
+
+**Thoughts**: I read about merge-sort on the book of introduction to the algorithms
+like 5 days ago, I try to implement it without read the pseudo-code, only with I 
+remember.
+
+**Link(s) to work**: [Day 34](Code/day34.md)
+
 
 ## Contents
 * [Rules](rules.md)
