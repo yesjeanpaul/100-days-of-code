@@ -372,6 +372,36 @@ remember.
 
 **Link(s) to work**: [Day 34](Code/day34.md)
 
+### Day 35: March 29, 2020
+
+**Today's Progress**: Finally end the implementation of merge-sort, it is great. 
+
+**Thoughts**: I see merge sort a long time ago and I want to implement it, 
+it's amazing that finally can do that, in the next few days I'm gonna check 
+again if I have to do refactor of the code, I'm happy.
+
+**Link(s) to work**: [Day 35](Code/day35.md)
+
+### Day 36: March 30, 2020
+
+**Today's Progress**: I see videos of my frontend course and work on the 
+prototipe to my fronted proyect.
+
+**Thoughts**: See this course remember me the concepts that I've read
+about HTML and get better knowledge of this markup language.
+
+**Link(s) to work**: [Day 36](Code/day36.md)
+
+### Day 36: March 31, 2020
+
+**Today's Progress**: I see videos of my frontend course and work on the 
+prototipe to my fronted proyect.
+
+**Thoughts**: I think the result is great, maybe changing some of the 
+typography improves the prototipe.
+
+**Link(s) to work**: [Day 37](Code/day37.md)
+
 
 ## Contents
 * [Rules](rules.md)
