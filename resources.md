@@ -22,6 +22,8 @@
 
 ### Coding
 
+[Course of competitive programmig](https://algo.is/)
+
 [Youtube Channel Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
 ## Contents

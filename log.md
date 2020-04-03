@@ -392,7 +392,7 @@ about HTML and get better knowledge of this markup language.
 
 **Link(s) to work**: [Day 36](Code/day36.md)
 
-### Day 36: March 31, 2020
+### Day 37: March 31, 2020
 
 **Today's Progress**: I see videos of my frontend course and work on the 
 prototipe to my fronted proyect.
@@ -401,6 +401,25 @@ prototipe to my fronted proyect.
 typography improves the prototipe.
 
 **Link(s) to work**: [Day 37](Code/day37.md)
+
+### Day 38: April 1, 2020
+
+**Today's Progress**: I do the exercise collatz conjecture of exercism page.
+
+**Thoughts**: Today I feel a little tired so I do an easy exercise, the collatz
+conjecture.
+
+**Link(s) to work**: [Day 38](Code/day38.md)
+
+### Day 39: April 2, 2020
+
+**Today's Progress**: I started the course on the page [algo.is](https://algo.is/)
+and do the first problem called flexible spaces.
+
+**Thoughts**: Today I started the course of comptetive programming, I discovered
+thanks to the slack community of 100 days of code.
+
+**Link(s) to work**: [Day 39](Code/day39.md)
 
 
 ## Contents
