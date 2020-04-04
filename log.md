@@ -421,6 +421,17 @@ thanks to the slack community of 100 days of code.
 
 **Link(s) to work**: [Day 39](Code/day39.md)
 
+### Day 40: April 3, 2020
+
+**Today's Progress**: I work in the first chapter of the competitive 
+programming, I do two exercises permutatione encryption and secret 
+messages, and do some progress in the collatz conjecture.
+
+**Thoughts**: I feel so good because I make some real progress in my 
+C++ knowledge, today I made two problems.
+
+**Link(s) to work**: [Day 40](Code/day40.md)
+
 
 ## Contents
 * [Rules](rules.md)
