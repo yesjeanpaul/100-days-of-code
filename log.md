@@ -432,6 +432,26 @@ C++ knowledge, today I made two problems.
 
 **Link(s) to work**: [Day 40](Code/day40.md)
 
+### Day 41: April 4, 2020
+
+**Today's Progress**: I stucked in the collatz conjecture problem.
+
+**Thoughts**: I don't understand why it gets TLE (Time Limit Exceed)
+if the efficiency is O(nlog(n)) it doesn't make sense that takes so long.
+
+**Link(s) to work**: [Day 41](Code/day41.md)
+
+### Day 42: April 5, 2020
+
+**Today's Progress**: I do the collatz problem on kattis platform.
+
+**Thoughts**: I made it, it seems that my solution was right but maybe 
+the program get stuck on some infinite loop because it overflows, the
+result of the greatest numbers doesn't fit in a int, so it causes some 
+weird unexpected behavior.
+
+**Link(s) to work**: [Day 42](Code/day42.md)
+
 
 ## Contents
 * [Rules](rules.md)
