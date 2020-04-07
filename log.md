@@ -452,6 +452,15 @@ weird unexpected behavior.
 
 **Link(s) to work**: [Day 42](Code/day42.md)
 
+### Day 43: April 6, 2020
+
+**Today's Progress**: I'm work on the kattis cross problem
+
+**Thoughts**: This problem is not that hard but it's large to realize, i'm 
+on my way.
+
+**Link(s) to work**: [Day 43](Code/day43.md)
+
 
 ## Contents
 * [Rules](rules.md)
