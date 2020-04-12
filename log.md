@@ -461,6 +461,56 @@ on my way.
 
 **Link(s) to work**: [Day 43](Code/day43.md)
 
+### Day 44: April 6, 2020
+
+**Today's Progress**: I'm work on the kattis cross problem
+
+**Thoughts**: I have some problems to implement it, it's too large to implement
+it.
+
+**Link(s) to work**: [Day 44](Code/day44.md)
+
+### Day 45: April 7, 2020
+
+**Today's Progress**: I'm work on the kattis cross problem
+
+**Thoughts**: I still struggling with implement this problem, I think this have 
+so many corner cases that I can hanndle apropialty.
+
+**Link(s) to work**: [Day 45](Code/day45.md)
+
+
+### Day 46: April 8, 2020
+
+**Today's Progress**: Well after pass all day implementing this problem, I'm 
+still don't pass the tests, I don't understand why.
+
+**Link(s) to work**: [Day 46](Code/day46.md)
+
+### Day 47: April 9, 2020
+
+**Today's Progress**: I try to do it all over again, and I try to be more organized
+with the things the program do, to make sure it works as I expected, but it doesn't 
+work.
+ 
+**Link(s) to work**: [Day 47](Code/day47.md)
+
+### Day: 48: April 10, 2020
+
+**Today's Progress**: Well I have to look for the solution, and I don't know how I end
+with so much lines of code, to implement such an easy problem, this teach me a great leason
+do the things with more simplicity.
+
+**Link(s) to work**: [Day 48](Code/day48.md)
+
+### Day: 49: April 11, 2020
+
+**Today's Progress**: I'm working on some web development, I made a few exercises
+on freecodecamp
+
+**Thoughts**: Well it's great to take a little breath doing some HTML code.
+
+**Link(s) to work**: [Day 49](http://www.freecodecamp.org/yesjeanpaul)
 
 ## Contents
 * [Rules](rules.md)
