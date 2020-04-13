@@ -512,6 +512,17 @@ on freecodecamp
 
 **Link(s) to work**: [Day 49](http://www.freecodecamp.org/yesjeanpaul)
 
+### Day: 50: April 12, 2020
+
+**Today's Progress**: I'm complete the first module of the responsibe web design
+certification on freeCodeCamp.
+
+**Thoughts**: It's important to me do some work on my knoweledge because I do the
+first part of my online course but I did't made a single line of code, so it's 
+important to me do some work.
+
+**Link(s) to work**: [Day 50](http://www.freecodecamp.org/yesjeanpaul)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
