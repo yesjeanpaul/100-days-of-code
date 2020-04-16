@@ -523,6 +523,26 @@ important to me do some work.
 
 **Link(s) to work**: [Day 50](http://www.freecodecamp.org/yesjeanpaul)
 
+### Day 51: April 14, 2020
+
+**Today's Progress**: I'm complete the deduplicating problem on kattis.
+
+**Thougths**: Still I have problems with the I/O routines, I try to be
+more pragmatic with that and do some research in this topic
+
+**Link(s) to work**: [Day 51](Codes/day51.md)
+
+### Day 52: April 15, 2020
+
+**Today's Progress**: Today do a simple I/O routine in java for remember
+this programming language.
+
+**Thoughts**: A long time ago that i don't use java, is dificult to describe
+the feelings of return to do something in this language, after almost two months
+of using C++.
+
+**Link(s) to work**: [Day 52](Codes/day52.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
