@@ -543,6 +543,18 @@ of using C++.
 
 **Link(s) to work**: [Day 52](Codes/day52.md)
 
+### Day 53: April 16, 2020
+
+**Today's Progress**: I try a contest online, the contest was the ICPC of 
+Malaysia in 2019 and an exercise on kattis.
+
+**Thoughts**: Is a good progress, to do a single exercise is good for me
+because i'm stil learning I think that competitive programming is the hardest
+discipline to got advance I'm full study almost two months and varely have 
+progress.
+
+**LInk(s) to work**: [Day 53](Codes/day53.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
