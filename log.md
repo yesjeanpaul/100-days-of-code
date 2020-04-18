@@ -530,7 +530,7 @@ important to me do some work.
 **Thougths**: Still I have problems with the I/O routines, I try to be
 more pragmatic with that and do some research in this topic
 
-**Link(s) to work**: [Day 51](Codes/day51.md)
+**Link(s) to work**: [Day 51](Code/day51.md)
 
 ### Day 52: April 15, 2020
 
@@ -541,7 +541,7 @@ this programming language.
 the feelings of return to do something in this language, after almost two months
 of using C++.
 
-**Link(s) to work**: [Day 52](Codes/day52.md)
+**Link(s) to work**: [Day 52](Code/day52.md)
 
 ### Day 53: April 16, 2020
 
@@ -553,7 +553,16 @@ because i'm stil learning I think that competitive programming is the hardest
 discipline to got advance I'm full study almost two months and varely have 
 progress.
 
-**LInk(s) to work**: [Day 53](Codes/day53.md)
+**LInk(s) to work**: [Day 53](Code/day53.md)
+
+### Day 54: April 17, 2020
+
+**Today's Progress**: I ended the kattis restaurant problem.
+
+**Thoughts**: Today I studied dynamic programming but I'm gonna take slow
+and review others programming paradigms.
+
+**Link(s) to work**: [Day 54](Code/day54.md)
 
 ## Contents
 * [Rules](rules.md)
