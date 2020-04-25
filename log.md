@@ -557,12 +557,50 @@ progress.
 
 ### Day 54: April 17, 2020
 
-**Today's Progress**: I ended the kattis restaurant problem.
+**Today's Progress**: I ended the restaurant kattis problem.
 
 **Thoughts**: Today I studied dynamic programming but I'm gonna take slow
 and review others programming paradigms.
 
 **Link(s) to work**: [Day 54](Code/day54.md)
+
+### Day 55: April 21, 2020
+
+**Today's Progress**: I ended the adding words kattis problem.
+
+**Thoughts**: Today I came with the solution to the adding words
+kattis problem and I'm starting a specialitation of AI on cousera.
+
+**Link(s) to work**: [Day 55](Code/day55.md)
+
+### Day 56: April 22, 2020
+
+**Today's Progress**: I'm working on all just a dream kattis problem.
+
+**Thoughts**: I take my time to think the problem, before to solved it and 
+I am on my way.
+
+**Link(s) to work**: [Day 56](Code/day56.md)
+
+### Day 57: April 23, 2020
+
+**Today's Progress**: I'm working on all just a dream kattis problem.
+
+**Thoughts**: I try to do a submit today and I get wrong answer.
+
+**Link(s) to work**: [Day 57](Code/day57.md)
+
+### Day 58: April 22, 2020
+
+**Today's Progress**: I'm working on all just a dream kattis problem.
+
+**Thoughts**: I have to look for the answer on this problem because
+I don't get it my problem and it turn out that I understand something
+totally diferent I found two solutions but one don't work fine so I'm 
+review the only one I have, tomorrow I'm gonna implement
+ the other solution.
+
+**Link(s) to work**: [Day 58](Code/day58.md)
 
 ## Contents
 * [Rules](rules.md)
