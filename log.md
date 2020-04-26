@@ -590,7 +590,7 @@ I am on my way.
 
 **Link(s) to work**: [Day 57](Code/day57.md)
 
-### Day 58: April 22, 2020
+### Day 58: April 24, 2020
 
 **Today's Progress**: I'm working on all just a dream kattis problem.
 
@@ -601,6 +601,16 @@ review the only one I have, tomorrow I'm gonna implement
  the other solution.
 
 **Link(s) to work**: [Day 58](Code/day58.md)
+
+### Day 59: April 25, 2020
+
+**Today's Progress**: I'm finish all just a dream kattis problem.
+
+**Thoughts**: After look for the solution I need to review, what
+was wrong, because the solution of yesterday was similar so I 
+going to look for the bug.
+
+**Link(s) to work**: [Day 59](Code/day59.md)
 
 ## Contents
 * [Rules](rules.md)
