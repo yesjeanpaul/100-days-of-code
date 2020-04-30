@@ -612,6 +612,34 @@ going to look for the bug.
 
 **Link(s) to work**: [Day 59](Code/day59.md)
 
+### Day 60: April 26, 2020
+
+**Today's Progress**: I'm review concepts of HTML.
+
+**Thoughts**: I see all the section of HTML a little bit long but
+now I have to review the concepts that I see.
+
+
+### Day 61: April 27, 2020
+
+**Today's Progress**: I'm review concepts of HTML.
+
+**Thoughts**: I see all the section of HTML a little bit long but
+now I have to review the concepts that I see.
+
+
+### Day 62: April 27, 2020
+
+**Today's Progress**: I attempted other exercise on kattis and do 
+my first layout on HTML.
+
+**Thoughts**: I think that my effort on learn competitive programming
+is not going well as I expected, so I have to think new strategies to 
+practice, additionally I tried code-pen for the first time and make my 
+first layout on HTML check it out.
+
+**Link(s) to work**: [Day 62](https://codepen.io/yesjeanpaul/full/pojrVPq)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
