@@ -620,15 +620,14 @@ going to look for the bug.
 now I have to review the concepts that I see.
 
 
-### Day 61: April 27, 2020
+### Day 61: April 28, 2020
 
 **Today's Progress**: I'm review concepts of HTML.
 
 **Thoughts**: I see all the section of HTML a little bit long but
 now I have to review the concepts that I see.
 
-
-### Day 62: April 27, 2020
+### Day 62: April 29, 2020
 
 **Today's Progress**: I attempted other exercise on kattis and do 
 my first layout on HTML.
@@ -639,6 +638,26 @@ practice, additionally I tried code-pen for the first time and make my
 first layout on HTML check it out.
 
 **Link(s) to work**: [Day 62](https://codepen.io/yesjeanpaul/full/pojrVPq)
+
+### Day 64: May 1, 2020
+
+**Today's Progress**: I participited on the codeforces contest #638.
+
+**Thoughts**: I made so bad on the contest I can't answer anything, only 
+attempt one of the problems it was called Phoenix and Balance and I get
+wrong answer. 
+
+**Link(s) to work**: [Day 64](Code/day64.md)
+
+### Day 65: May 2, 2020
+
+**Today's Progress**: Practice write without bugs.
+
+**Thoughts**: I enter to codewars platform and made some easy exercises
+the idea was not to make some complex algorithm but rather write code 
+without bugs, I read a post on quora and try to practices those advises.
+
+**Link(s) to work**: [Day 65](Code/day65.md)
 
 ## Contents
 * [Rules](rules.md)
