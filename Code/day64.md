@@ -1,4 +1,4 @@
-## Day 64 Code
+# Day 64 Code
 
 phoenix_and_balance.cpp
 

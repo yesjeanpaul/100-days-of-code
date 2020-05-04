@@ -659,6 +659,17 @@ without bugs, I read a post on quora and try to practices those advises.
 
 **Link(s) to work**: [Day 65](Code/day65.md)
 
+### Day 66: May 3, 2020 
+
+**Today's Progress**: I read about macros and streams of C++.
+
+**Thoughts**: I think maybe implement macros and read streams 
+may help me to get better in competitve programming so I read 
+about macros and how to read the stream of the program from a 
+file.
+
+**Link(s) to work**: [Day 66](Code/day66.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
