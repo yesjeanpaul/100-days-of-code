@@ -670,6 +670,16 @@ file.
 
 **Link(s) to work**: [Day 66](Code/day66.md)
 
+### Day 67: May 4, 2020 
+
+**Today's Progress**: I to convert from rgb to hexadecimal in
+a codewars exercise.
+
+**Thoughts**: The exercise ask me to convert from rgb to hexadecimal,
+I'm trying to use all of the std as much as I can. 
+
+**Link(s) to work**: [Day 67](Code/day67.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
