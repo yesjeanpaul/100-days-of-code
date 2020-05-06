@@ -680,6 +680,18 @@ I'm trying to use all of the std as much as I can.
 
 **Link(s) to work**: [Day 67](Code/day67.md)
 
+### Day 68: May 4, 2020 
+
+**Today's Progress**: I made an exercise on codewars about to find
+the missing term on aritmetic progression
+
+**Thoughts**: Is amazing to discover a new thing! I couldn't never end
+with that clever solution that make this exercise so simple, you only
+have to use a formula of aritmetic progression 
+[aritmetic progression](https://en.wikipedia.org/wiki/Arithmetic_progression#Sum).
+
+**Link(s) to work**: [Day 68](Code/day68.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
