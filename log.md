@@ -680,7 +680,7 @@ I'm trying to use all of the std as much as I can.
 
 **Link(s) to work**: [Day 67](Code/day67.md)
 
-### Day 68: May 4, 2020 
+### Day 68: May 5, 2020 
 
 **Today's Progress**: I made an exercise on codewars about to find
 the missing term on aritmetic progression
@@ -691,6 +691,17 @@ have to use a formula of aritmetic progression
 [aritmetic progression](https://en.wikipedia.org/wiki/Arithmetic_progression#Sum).
 
 **Link(s) to work**: [Day 68](Code/day68.md)
+
+### Day 69: May 7, 2020 
+
+**Today's Progress**: I make some practice on codewars again.
+
+**Thoughts**: I don't mention it but i tried to practice on UVa judge
+and I can't do the sets of exercises that I think to do today, they were
+difficult to me, I have to think how to train tomorrow. I will do a more 
+easy problems.
+
+**Link(s) to work**: [Day 69](Code/day69.md)
 
 ## Contents
 * [Rules](rules.md)
