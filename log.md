@@ -703,6 +703,38 @@ easy problems.
 
 **Link(s) to work**: [Day 69](Code/day69.md)
 
+### Day 70: May 8, 2020 
+
+**Today's Progress**: I do an exercise on UVa called combination lock.
+
+**Thoughts**: After I think about all my effort to entry in competitive
+programming I'm just start thinking in take my time to learn, so instead 
+of be hurry of learn all of once I'm gonna learn slowly. 
+
+**Link(s) to work**: [Day 70](Code/day70.md)
+
+### Day 71: May 8, 2020 
+
+**Today's Progress**: I participate in the codeforces 640 div. 4.
+
+**Thoughts**: I struggled a lot to make two exercises and this division is the 
+easiest one, this prove my point that I try to push me to learn so quickly that
+I just waste all my effort so right now I'm trying to be better a little bit 
+each day and keep learning to improve in the coding contests.
+
+**Link(s) to work**: [Day 71](Code/day71.md)
+
+### Day 72: May 9, 2020 
+
+**Today's Progress**: I made 4 exercises on the UVa judge easy section.
+
+**Thoughts**: I made it very quickly, because I have already codes ready to submit,
+a little tweaks and it was ready to submit, I think that I'm improved a lot in 
+C++ since my very first day, in the firsts days it would take me so much time to 
+do this exercises, I feel excited of the progess.
+
+**Link(s) to work**: [Day 72](Code/day72.md)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
